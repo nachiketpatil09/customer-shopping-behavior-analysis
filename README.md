@@ -146,17 +146,6 @@ The dashboard helps present business insights related to:
 - Shipping preferences
 
 
-
-### Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
-
-```text
-![Power BI Dashboard](dashboard/dashboard.png)
-```
-
----
-
 ## 💡 Business Recommendations
 
 Based on the analysis, the project provides recommendations in the following areas:
